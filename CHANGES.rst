@@ -3,6 +3,10 @@ CHANGES
 
 master (unreleased)
 -------------------
+0.7 (2023.01.05)
+----------------
+
+* Removes use of deprecated function force_text to force_str
 
 0.6 (2019.05.10)
 ----------------
